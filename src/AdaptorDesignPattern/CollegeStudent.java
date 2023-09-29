@@ -14,6 +14,7 @@ public class CollegeStudent implements Student{
 		this.surname = surname;
 		this.email = email;
 	}
+	
 
 	@Override
 	public String getName() {
